@@ -40,6 +40,10 @@ img {
   color: white;
 }
 
+.navbar a:hover {
+  color: lightblue;
+}
+
 ul {
   list-style: none;
 }
